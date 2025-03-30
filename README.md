@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm  Nico </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="Banner1920x1080.gif" 
-     style="border-radius: 50%; margin-right: 200px; object-fit: cover;" 
-     width="200px" 
-     height="200px">
+     style="border-radius: 20px; margin-right: 20px; margin-left: auto; display: block;" 
+     height="25%" 
+     width="44%">
 
 
 
