@@ -1,4 +1,4 @@
-<h1><b>Hi , I am Nicolàs </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 text-aling:center><b>Hi , I am Nicolàs </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <img style = "margin-right = 30px" src ="Banner1920x1080.gif">
 
