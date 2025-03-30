@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm  Nico </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <style>
-  border-radius: 10px;
-<img src = "Banner1920x1080.gif" heigth ="25%" width="100%" </img
+  
+<img src = "Banner1920x1080.gif" heigth ="25%" width="100%" border-radius: 10px; </img
 
 </style>
 
