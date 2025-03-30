@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm  Nico </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src = "Banner1920x1080.gif" heigth ="25%" width="35%" </img
+<img src = "Banner1920x1080.gif" heigth ="25%" width="65%" </img
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
