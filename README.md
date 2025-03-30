@@ -1,5 +1,6 @@
 <h1 align="center"><b>Hi , I'm  Nico </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="Banner1920x1080.gif" 
+<p>Hi mi name is Nicolas I am student </p>
 
 
 
